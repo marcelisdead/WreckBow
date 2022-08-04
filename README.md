@@ -3,11 +3,13 @@ Bow and arrow in VR is one of the most satisfying inputs so far in my opinion. I
 Tried to make the scripts pretty modular so that maybe they could be reused for other purposes.
 
 Still want to make:
+
 -alternate script to make collision have arrow stick to object instead of world.
 -Make StretchSound script more straightforward.
 -version with sockets so anything can be shot in game.
 
 Notes:
+
 -Uses Unity Editor 2020.3.13f1  
 -Uses 2.0.1 XRI Toolkit.
 -You also need to add the Starter Assets for the XRI Default Input Actions.
