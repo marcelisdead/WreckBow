@@ -1,9 +1,6 @@
-https://user-images.githubusercontent.com/46794418/182766555-5b5ef505-6c55-45b8-adcd-0e5388a8412e.mov
-
-
-
-
 Bow and arrow in VR is one of the most satisfying inputs so far in my opinion. I wanted one to have fun with when debugging other VR projects so I made one. Took inspiration from my favorite bow ive used in VR: RecRoom. Sure its more cartoony but I think their way of using 2 hands for pointing the bow gives better control.
+
+https://user-images.githubusercontent.com/46794418/182766555-5b5ef505-6c55-45b8-adcd-0e5388a8412e.mov
 
 Tried to make the scripts pretty modular so that maybe they could be reused for other purposes.
 
