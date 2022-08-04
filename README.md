@@ -1,3 +1,8 @@
+Uploading WreckBow.mp4…
+
+
+
+
 Bow and arrow in VR is one of the most satisfying inputs so far in my opinion. I wanted one to have fun with when debugging other VR projects so I made one. Took inspiration from my favorite bow ive used in VR: RecRoom. Sure its more cartoony but I think their way of using 2 hands for pointing the bow gives better control.
 
 Tried to make the scripts pretty modular so that maybe they could be reused for other purposes.
