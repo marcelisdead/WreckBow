@@ -16,7 +16,7 @@ Notes:
 -Uses 2.0.1 XRI Toolkit.
 -You also need to add the Starter Assets for the XRI Default Input Actions.
 -DemoScene has script that turns off physics interaction between layer 6(arrow),7(bow) so it works in that scene if you import the package into your project.
--Colliders needed on hands to pickup and pull.
+-To pickup and pull, hands need atleast 'Player' layered trigger colliders.
 
 
 Let me know if you have any comments or questions. I had fun with it and think some of the scripts are pretty cool. Hope you do too!
